@@ -1,0 +1,5 @@
+{
+  "name": "神探奥德赛",
+  "description": "基于 DeepSeek API 的硬核推理破案游戏，结局确定，过程灵活。",
+  "requestFramePermissions": []
+}
